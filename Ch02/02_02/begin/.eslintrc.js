@@ -1,11 +1,12 @@
-'use strict';
+"use strict";
 
 module.exports = {
-  env: {
-    es6: true,
-  },
-  rules: {
-    strict: ['error', 'global'],
-    'func-style': ['error', 'expression'],
-  },
+	env: {
+		es6: true,
+	},
+	rules: {
+		strict: ["error", "global"],
+		"func-style": ["error", "expression"],
+		"no-new-func": "error",
+	},
 };
