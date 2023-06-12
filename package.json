@@ -1,14 +1,22 @@
 {
   "name": "js-best-practices",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "vite": "^4.3.9"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bechlokza/js-best-practices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bechlokza/js-best-practices/issues"
+  },
+  "homepage": "https://github.com/bechlokza/js-best-practices#readme",
+  "dependencies": {
+    "eslint": "^8.42.0"
   }
 }
