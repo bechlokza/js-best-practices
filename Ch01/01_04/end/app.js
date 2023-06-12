@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
-const city = 'Chicago';
+const city = "Chicago";
 console.log(city);
